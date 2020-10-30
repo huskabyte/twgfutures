@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "twgfutures:lantern"
+    },
+    "facing=down": {
+      "model": "twgfutures:lantern_hanging"
+    }
+  }
+}

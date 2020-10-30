@@ -1,0 +1,25 @@
+tile.acacia_button.name=Acacia Button
+tile.birch_button.name=Birch Button
+tile.spruce_button.name=Spruce Button
+tile.jungle_button.name=Jungle Button
+tile.dark_oak_button.name=Dark Oak Button
+
+tile.acacia_trapdoor.name=Acacia Trapdoor
+tile.birch_trapdoor.name=Birch Trapdoor
+tile.spruce_trapdoor.name=Spruce Trapdoor
+tile.jungle_trapdoor.name=Jungle Trapdoor
+tile.dark_oak_trapdoor.name=Dark Oak Trapdoor
+
+tile.stripped_oak_log.name=Stripped Oak Log
+tile.stripped_acacia_log.name=Stripped Acacia Log
+tile.stripped_birch_log.name=Stripped Birch Log
+tile.stripped_spruce_log.name=Stripped Spruce Log
+tile.stripped_jungle_log.name=Stripped Jungle Log
+tile.stripped_dark_oak_log.name=Stripped Dark Oak Log
+
+tile.stripped_oak_wood.name=Stripped Oak Wood
+tile.stripped_acacia_wood.name=Stripped Acacia Wood
+tile.stripped_birch_wood.name=Stripped Birch Wood
+tile.stripped_spruce_wood.name=Stripped Spruce Wood
+tile.stripped_jungle_wood.name=Stripped Jungle Wood
+tile.stripped_dark_oak_wood.name=Stripped Dark Oak Wood

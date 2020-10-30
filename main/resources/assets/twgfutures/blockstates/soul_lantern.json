@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "twgfutures:soul_lantern"
+    },
+    "facing=down": {
+      "model": "twgfutures:soul_lantern_hanging"
+    }
+  }
+}

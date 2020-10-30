@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "twgfutures:stripped_oak_log" },
+        "axis=z":   { "model": "twgfutures:stripped_oak_log", "x": 90 },
+        "axis=x":   { "model": "twgfutures:stripped_oak_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "twgfutures:stripped_oak_wood" }
+    }
+}

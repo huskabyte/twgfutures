@@ -1,0 +1,6 @@
+{
+  "parent": "twgfutures:block/template_lantern",
+  "textures": {
+    "lantern": "twgfutures:blocks/lantern"
+  }
+}

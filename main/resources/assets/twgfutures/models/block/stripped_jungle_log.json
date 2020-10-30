@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "twgfutures:blocks/stripped_jungle_log_top",
+        "side": "twgfutures:blocks/stripped_jungle_log"
+    }
+}
