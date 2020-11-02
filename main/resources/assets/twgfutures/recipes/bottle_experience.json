@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "G#G",
+    "LLL"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "twgcore:ingot_arilium"
+      }
+    ],
+        "L": [
+      {
+        "item": "minecraft:lapis_block"
+      }
+    ]
+  },
+      "G": [
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+  "result": {
+    "item": "twgfutures:jungle_trapdoor",
+    "count": 2
+  }
+}
