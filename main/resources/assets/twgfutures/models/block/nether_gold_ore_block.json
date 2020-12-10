@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "twgfutures:blocks/nether_gold_ore_block",
+    "up": "twgfutures:blocks/nether_gold_ore_block",
+    "north": "twgfutures:blocks/nether_gold_ore_block",
+    "east": "twgfutures:blocks/nether_gold_ore_block",
+    "south": "twgfutures:blocks/nether_gold_ore_block",
+    "west": "twgfutures:blocks/nether_gold_ore_block",
+    "particle": "twgfutures:blocks/nether_gold_ore_block"
+  }
+}

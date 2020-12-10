@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "normal":
+        {
+            "model": "twgfutures:nether_gold_ore_block"
+        }
+    }
+}
