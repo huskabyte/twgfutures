@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "normal":
+        {
+            "model": "twgfutures:warped_nylium_block"
+        }
+    }
+}

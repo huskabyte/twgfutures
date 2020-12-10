@@ -23,3 +23,7 @@ tile.stripped_birch_wood.name=Stripped Birch Wood
 tile.stripped_spruce_wood.name=Stripped Spruce Wood
 tile.stripped_jungle_wood.name=Stripped Jungle Wood
 tile.stripped_dark_oak_wood.name=Stripped Dark Oak Wood
+
+tile.basalt_block.name=Basalt
+tile.polished_basalt_block.name=Polished Basalt
+tile.warped_nylium_block.name=Warped Nylium

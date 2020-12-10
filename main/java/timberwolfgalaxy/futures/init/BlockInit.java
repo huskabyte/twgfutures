@@ -4,10 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import timberwolfgalaxy.futures.objects.blocks.BasaltBlock;
 import timberwolfgalaxy.futures.objects.blocks.BlockLantern;
 import timberwolfgalaxy.futures.objects.blocks.BlockStrippedWoods;
 import timberwolfgalaxy.futures.objects.blocks.BlockWoodenButton;
 import timberwolfgalaxy.futures.objects.blocks.BlockWoodenTrapdoor;
+import timberwolfgalaxy.futures.objects.blocks.PolishedBasaltBlock;
+import timberwolfgalaxy.futures.objects.blocks.WarpedNyliumBlock;
 
 public class BlockInit {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
@@ -40,4 +44,8 @@ public class BlockInit {
 	
 	public static final Block LANTERN = new BlockLantern("lantern", 15);
 	public static final Block SOUL_LANTERN = new BlockLantern("soul_lantern", 10);
+	
+	public static final Block BASALT_BLOCK = new BasaltBlock("basalt_block", Material.ROCK);
+	public static final Block POLISHED_BASALT_BLOCK = new PolishedBasaltBlock("polished_basalt_block", Material.ROCK);
+	public static final Block WARPED_Nylium_BLOCK = new WarpedNyliumBlock("warped_nylium_block", Material.GRASS);
 }

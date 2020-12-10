@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "twgfutures:blocks/polished_basalt_block_top",
+    "up": "twgfutures:blocks/polished_basalt_block_top",
+    "north": "twgfutures:blocks/polished_basalt_block_side",
+    "east": "twgfutures:blocks/polished_basalt_block_side",
+    "south": "twgfutures:blocks/polished_basalt_block_side",
+    "west": "twgfutures:blocks/polished_basalt_block_side",
+    "particle": "twgfutures:blocks/polished_basalt_block_side"
+  }
+}
