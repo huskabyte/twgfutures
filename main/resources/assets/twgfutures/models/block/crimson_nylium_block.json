@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "twgfutures:blocks/netherrack",
+    "up": "twgfutures:blocks/crimson_nylium_block_top",
+    "north": "twgfutures:blocks/crimson_nylium_block_side",
+    "east": "twgfutures:blocks/crimson_nylium_block_side",
+    "south": "twgfutures:blocks/crimson_nylium_block_side",
+    "west": "twgfutures:blocks/crimson_nylium_block_side",
+    "particle": "twgfutures:blocks/crimson_nylium_block_top"
+  }
+}

@@ -10,6 +10,7 @@ import timberwolfgalaxy.futures.objects.blocks.BlockLantern;
 import timberwolfgalaxy.futures.objects.blocks.BlockStrippedWoods;
 import timberwolfgalaxy.futures.objects.blocks.BlockWoodenButton;
 import timberwolfgalaxy.futures.objects.blocks.BlockWoodenTrapdoor;
+import timberwolfgalaxy.futures.objects.blocks.CrimsonNyliumBlock;
 import timberwolfgalaxy.futures.objects.blocks.PolishedBasaltBlock;
 import timberwolfgalaxy.futures.objects.blocks.WarpedNyliumBlock;
 
@@ -48,4 +49,5 @@ public class BlockInit {
 	public static final Block BASALT_BLOCK = new BasaltBlock("basalt_block", Material.ROCK);
 	public static final Block POLISHED_BASALT_BLOCK = new PolishedBasaltBlock("polished_basalt_block", Material.ROCK);
 	public static final Block WARPED_Nylium_BLOCK = new WarpedNyliumBlock("warped_nylium_block", Material.GRASS);
+	public static final Block CRIMSON_Nylium_BLOCK = new CrimsonNyliumBlock("crimson_nylium_block", Material.GRASS);
 }

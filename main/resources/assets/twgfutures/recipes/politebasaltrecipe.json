@@ -12,14 +12,14 @@
     {
         "R":
         {
-            "item": "angelplus:basalt_block"
+            "item": "twgfutures:basalt_block"
         }
         
     },
     
     "result":
     {
-        "item": "angelplus:polished_basalt_block",
+        "item": "twgfutures:polished_basalt_block",
         "count": 4
     }
 }
