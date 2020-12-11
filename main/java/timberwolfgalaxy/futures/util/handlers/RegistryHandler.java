@@ -8,10 +8,12 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.registries.IForgeRegistryModifiable;
 import timberwolfgalaxy.futures.init.BlockInit;
 import timberwolfgalaxy.futures.init.ItemInit;
 import timberwolfgalaxy.futures.util.IHasModel;
+import timberwolfgalaxy.futures.world.WorldGenCustomOres;
 
 @EventBusSubscriber
 public class RegistryHandler {
@@ -46,5 +48,9 @@ public class RegistryHandler {
 		IForgeRegistryModifiable modRegistry = (IForgeRegistryModifiable) event.getRegistry();
 		modRegistry.remove(button);
 		modRegistry.remove(trapdoor);
+	}
+	
+	public static void otherRegistries() {
+		GameRegistry.registerWorldGenerator(new WorldGenCustomOres(), 0);
 	}
 }

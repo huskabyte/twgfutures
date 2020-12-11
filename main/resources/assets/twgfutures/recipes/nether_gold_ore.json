@@ -1,0 +1,13 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twgfutures:nether_gold_ore_block",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "data": 0
+  }
+},
