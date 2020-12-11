@@ -11,6 +11,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.registries.IForgeRegistryModifiable;
 import timberwolfgalaxy.futures.init.BlockInit;
+import timberwolfgalaxy.futures.init.EntityInit;
 import timberwolfgalaxy.futures.init.ItemInit;
 import timberwolfgalaxy.futures.util.IHasModel;
 import timberwolfgalaxy.futures.world.WorldGenCustomOres;
@@ -52,5 +53,6 @@ public class RegistryHandler {
 	
 	public static void otherRegistries() {
 		GameRegistry.registerWorldGenerator(new WorldGenCustomOres(), 0);
+		EntityInit.registerEntities();
 	}
 }
