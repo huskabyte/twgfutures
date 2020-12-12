@@ -1,29 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "LLL",
-    "G#G",
-    "LLL"
-  ],
-  "key": {
-    "#": [
-      {
-        "item": "twgcore:ingot_arilium"
-      }
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "GLG",
+        "###"
     ],
-        "L": [
-      {
-        "item": "minecraft:lapis_block"
-      }
-    ]
-  },
-      "G": [
-      {
-        "item": "minecraft:glass"
-      }
-    ],
-  "result": {
-    "item": "minecraft:experience_bottle",
-    "count": 4
-  }
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_block"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "L": {
+            "item": "twgcore:ingot_arilium"
+        }
+    },
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 4
+    }
 }

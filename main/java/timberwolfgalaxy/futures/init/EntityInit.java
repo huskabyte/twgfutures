@@ -6,6 +6,7 @@ import akka.Main;
 import net.minecraft.entity.Entity;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fml.common.registry.EntityRegistry;
+import timberwolfgalaxy.futures.entity.EntityPhantom;
 
 public class EntityInit 
 {

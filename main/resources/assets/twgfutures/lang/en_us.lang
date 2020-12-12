@@ -29,3 +29,5 @@ tile.polished_basalt_block.name=Polished Basalt
 tile.warped_nylium_block.name=Warped Nylium
 tile.crimson_nylium_block.name=Crimson Nylium
 tile.nether_gold_ore_block.name=Nether Gold Ore
+item.netherite_scrap.name=Netherite Scrap
+item.netherite_ingot.name=Netherite Ingot

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "twgfutures:netherite_scrap"
+    },
+    {
+      "item": "twgfutures:netherite_scrap"
+    },
+    {
+      "item": "twgfutures:netherite_scrap"
+    },
+    {
+      "item": "twgfutures:netherite_scrap"
+    }
+  ],
+  "result": {
+    "item": "twgfutures:netherite_ingot"
+  }
+}
