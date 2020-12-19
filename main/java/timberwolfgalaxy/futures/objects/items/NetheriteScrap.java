@@ -1,4 +1,4 @@
-package timberwolfgalaxy.futures.items;
+package timberwolfgalaxy.futures.objects.items;
 
 import net.minecraft.item.Item;
 

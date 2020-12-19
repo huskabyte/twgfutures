@@ -5,9 +5,9 @@ import java.util.List;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
-import timberwolfgalaxy.futures.items.NetheriteIngot;
-import timberwolfgalaxy.futures.items.NetheriteScrap;
 import timberwolfgalaxy.futures.objects.blocks.BlockWoodenTrapdoor;
+import timberwolfgalaxy.futures.objects.items.NetheriteIngot;
+import timberwolfgalaxy.futures.objects.items.NetheriteScrap;
 
 public class ItemInit {
 	public static final List<Item> ITEMS = new ArrayList<Item>();
