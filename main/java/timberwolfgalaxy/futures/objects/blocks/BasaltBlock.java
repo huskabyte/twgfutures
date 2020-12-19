@@ -20,7 +20,7 @@ public class BasaltBlock extends BlockBase
 		setResistance(4.2F);
 		setHarvestLevel("pickaxe", 1);
 		setSoundType(SoundType.STONE);
-		setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+		setCreativeTab(CreativeTabs.DECORATIONS);
 		
 	}
 }

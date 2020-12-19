@@ -20,7 +20,7 @@ public class WarpedNyliumBlock extends BlockBase
 		setResistance(1.0F);
 		setHarvestLevel("spade", 0);
 		setSoundType(SoundType.GROUND);
-		setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+		setCreativeTab(CreativeTabs.DECORATIONS);
 		
 	}
 }
