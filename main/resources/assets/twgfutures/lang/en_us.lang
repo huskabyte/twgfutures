@@ -31,3 +31,12 @@ tile.crimson_nylium_block.name=Crimson Nylium
 tile.nether_gold_ore_block.name=Nether Gold Ore
 item.netherite_scrap.name=Netherite Scrap
 item.netherite_ingot.name=Netherite Ingot
+
+item.netherite_sword.name=Netherite Sword
+item.netherite_spade.name=Netherite Shovel
+item.netherite_axe.name=Netherite Axe
+item.netherite_pickaxe.name=Netherite Pickaxe
+item.netherite_helmet.name=Netherite Helmet
+item.netherite_chestplate.name=Netherite Chestplate
+item.netherite_leggings.name=Netherite Leggings
+item.netherite_boots.name=Netherite Boots

@@ -5,6 +5,7 @@ import java.util.List;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
+import timberwolfgalaxy.futures.objects.blocks.AncientDebrisBlock;
 import timberwolfgalaxy.futures.objects.blocks.BasaltBlock;
 import timberwolfgalaxy.futures.objects.blocks.BlockLantern;
 import timberwolfgalaxy.futures.objects.blocks.BlockStrippedWoods;
@@ -52,4 +53,5 @@ public class BlockInit {
 	public static final Block WARPED_Nylium_BLOCK = new WarpedNyliumBlock("warped_nylium_block", Material.GRASS);
 	public static final Block CRIMSON_Nylium_BLOCK = new CrimsonNyliumBlock("crimson_nylium_block", Material.GRASS);
 	public static final Block NETHER_GOLD_ORE_BLOCK = new NetherGoldOreBlock("nether_gold_ore_block", Material.ROCK);
+	public static final Block ANCIENT_DEBRIS_BLOCK = new AncientDebrisBlock("ancient_debris_block", Material.ROCK);
 }

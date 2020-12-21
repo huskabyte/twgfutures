@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "twgfutures:blocks/ancient_debris_block_top",
+    "up": "twgfutures:blocks/ancient_debris_block_top",
+    "north": "twgfutures:blocks/ancient_debris_block_side",
+    "east": "twgfutures:blocks/ancient_debris_block_side",
+    "south": "twgfutures:blocks/ancient_debris_block_side",
+    "west": "twgfutures:blocks/ancient_debris_block_side",
+    "particle": "twgfutures:blocks/ancient_debris_block_side"
+  }
+}

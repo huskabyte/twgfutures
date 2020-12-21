@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "normal":
+        {
+            "model": "twgfutures:ancient_debris_block"
+        }
+    }
+}
