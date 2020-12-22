@@ -15,7 +15,7 @@ import timberwolfgalaxy.futures.init.BlockInit;
 
 public class WorldGenCustomOres implements IWorldGenerator
 {
-	private WorldGenerator nether_gold_ore_block, ancient_debris_block, t;
+	private WorldGenerator nether_gold_ore_block, ancient_debris_block;
 	//private WorldGenerator copper_ore_nether, copper_ore_end;
 	
 	public WorldGenCustomOres() 
@@ -39,7 +39,7 @@ public class WorldGenCustomOres implements IWorldGenerator
 		case -1:
 			
 			runGenerator(nether_gold_ore_block, world, random, chunkX, chunkZ, 75, 1, 256);
-			runGenerator(ancient_debris_block, world, random, chunkX, chunkZ, 75, 1, 256);
+			runGenerator(ancient_debris_block, world, random, chunkX, chunkZ, 15, 1, 256);
 			
 			break;
 			
