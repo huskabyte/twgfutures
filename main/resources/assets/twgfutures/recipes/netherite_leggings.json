@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "minecraft:diamond_leggings"
+        },
+        {
+            "item": "twgfutures:netherite_ingot"
+        }
+    ],
+    "result": {
+        "item": "twgfutures:netherite_leggings"
+    }
+}
