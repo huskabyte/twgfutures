@@ -7,6 +7,7 @@ import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import timberwolfgalaxy.futures.objects.blocks.AncientDebrisBlock;
 import timberwolfgalaxy.futures.objects.blocks.BasaltBlock;
+import timberwolfgalaxy.futures.objects.blocks.Blackstone;
 import timberwolfgalaxy.futures.objects.blocks.BlockLantern;
 import timberwolfgalaxy.futures.objects.blocks.BlockStrippedWoods;
 import timberwolfgalaxy.futures.objects.blocks.BlockWoodenButton;
@@ -14,6 +15,7 @@ import timberwolfgalaxy.futures.objects.blocks.BlockWoodenTrapdoor;
 import timberwolfgalaxy.futures.objects.blocks.CrimsonNyliumBlock;
 import timberwolfgalaxy.futures.objects.blocks.NetherGoldOreBlock;
 import timberwolfgalaxy.futures.objects.blocks.PolishedBasaltBlock;
+import timberwolfgalaxy.futures.objects.blocks.PolishedBlackstone;
 import timberwolfgalaxy.futures.objects.blocks.WarpedNyliumBlock;
 
 public class BlockInit {
@@ -54,4 +56,6 @@ public class BlockInit {
 	public static final Block CRIMSON_Nylium_BLOCK = new CrimsonNyliumBlock("crimson_nylium_block", Material.GRASS);
 	public static final Block NETHER_GOLD_ORE_BLOCK = new NetherGoldOreBlock("nether_gold_ore_block", Material.ROCK);
 	public static final Block ANCIENT_DEBRIS_BLOCK = new AncientDebrisBlock("ancient_debris_block", Material.ROCK);
+	public static final Block BLACKSTONE = new Blackstone("blackstone", Material.ROCK);
+	public static final Block POLISHED_BLACKSTONE = new PolishedBlackstone("polished_blackstone", Material.ROCK);
 }

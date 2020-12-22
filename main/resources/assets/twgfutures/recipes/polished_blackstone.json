@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " RR",
+        " RR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "twgfutures:blackstone"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "twgfutures:polished_blackstone",
+        "count": 4
+    }
+}

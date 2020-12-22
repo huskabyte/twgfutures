@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "twgfutures:blocks/polished_blackstone",
+    "up": "twgfutures:blocks/polished_blackstone",
+    "north": "twgfutures:blocks/polished_blackstone",
+    "east": "twgfutures:blocks/polished_blackstone",
+    "south": "twgfutures:blocks/polished_blackstone",
+    "west": "twgfutures:blocks/polished_blackstone",
+    "particle": "twgfutures:blocks/polished_blackstone"
+  }
+}
